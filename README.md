@@ -1,16 +1,15 @@
-## Hi there 👋
+I'm building a Shinkansen reservation system from scratch using React.js (Bootstrap 5) for the frontend, Spring Boot (REST API) for the backend, and AWS for deployment.
 
-<!--
-**RAKSHAK-DESU/RAKSHAK-DESU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Tech Stack: React.js | Spring Boot | AWS | MySQL
+🔹 Status: Still in development
 
-Here are some ideas to get you started:
+This repo is private, but if you're curious about the project, feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+現在、新幹線の予約システムを**React.js（Bootstrap 5）**のフロントエンド、Spring Boot（REST API）のバックエンド、そしてAWSのデプロイメントを使って開発中です。
+
+🔹 技術スタック: React.js | Spring Boot | AWS | MySQL
+🔹 進捗状況: 開発中
+
+このリポジトリは非公開ですが、興味があれば気軽に連絡してください！
