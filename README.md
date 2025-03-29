@@ -3,7 +3,7 @@ I'm building a Shinkansen Management system from scratch using React.js (Bootstr
 🔹 Tech Stack: React.js | Spring Boot | AWS | MySQL
 🔹 Status: Still in development
 
-This repo is private, but if you're curious about the project, feel free to reach out!
+The Desktop Version is being built using Java Swing , Please have a look at that repo . However Web version is private, but if you're curious about the project, feel free to reach out!
 
 
 
@@ -12,4 +12,4 @@ This repo is private, but if you're curious about the project, feel free to reac
 🔹 技術スタック: React.js | Spring Boot | AWS | MySQL
 🔹 進捗状況: 開発中
 
-このリポジトリは非公開ですが、興味があれば気軽に連絡してください！
+デスクトップ版はJavaとJava Swingを使って開発中ですリポジトリぜひご覧ください、ウェブ版のリポジトリは非公開ですが、興味があれば気軽に連絡してください！
