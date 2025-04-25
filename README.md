@@ -1,72 +1,38 @@
-I love taking on tough problems and want to become a **Principal Software Engineer**. I’m always improving my skills with **DSA practice** and building projects that challenge me.
+# Hi, I’m Rakshak Hingawe
 
----
+I’m working to become a **Principal Software Engineer** by solving tough problems and improving my skills with **DSA** and real-world projects.
 
-##  What I’m Working On
+## What I’m Building
 
-- Building a **Shinkansen Management System** using:
-  - **React.js**, **Spring Boot (Java)**, **AWS**, and **MySQL**  
-  > 🔧 *Still in development*
-
----
-
-##  My Goals
-
-- Become a **Principal Engineer**  
-- Solve complex problems and build software that matters
-
----
+- **Shinkansen Management System** using **React**, **Spring Boot**, **AWS**, **MySQL**  
+  (Still in development)
 
 ## Tech I Use
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
+- Java, Spring Boot, React, MySQL, AWS
 
 ## Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rakshak-hingawe/)  
-- 📧 Email: rakshakhingawe@gmail.com
+- Email: rakshakhiangawe@gmail.com
 
 ---
 
 # こんにちは、ラクシャク・ヒンガウェです
 
-難しい問題を解決するのが好きで、**プリンシパルソフトウェアエンジニア**になることを目指しています。**データ構造とアルゴリズム**を練習しながらスキルを磨いて、挑戦的なプロジェクトを作っています。
+**プリンシパルソフトウェアエンジニア**を目指して、**データ構造とアルゴリズム**やプロジェクトを通じてスキルを向上させています。
 
----
+## 取り組んでいること
 
-## 💻 現在取り組んでいること
+- **新幹線管理システム**（React, Spring Boot, AWS, MySQL）  
+  （開発中）
 
-- **新幹線管理システム**を開発中：
-  - **React.js**、**Spring Boot (Java)**、**AWS**、**MySQL**を使用  
-  > 🔧 *開発中*
+## 使用技術
 
----
+- Java, Spring Boot, React, MySQL, AWS
 
-## 🎯 私の目標
-
-- **プリンシパルエンジニア**になる  
-- 複雑な問題を解決して、影響力のあるソフトウェアを作りたい
-
----
-
-## 🛠️ 使用技術
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 📬 連絡先
+## 連絡先
 
 - [LinkedIn](https://www.linkedin.com/in/rakshak-hingawe/)  
-- 📧 メール: rakshakhingawe@gmail.com
+- メール: rakshakhiangawe@gmail.com
 
