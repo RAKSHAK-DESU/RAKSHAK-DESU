@@ -8,17 +8,6 @@ Current Project: Building a Shinkansen Management System
 
     Tech Stack: React, Spring Boot, AWS, MySQL
 
-Technologies I Use:
-
-    Java
-
-    Spring Boot
-
-    React
-
-    MySQL
-
-    AWS
 #　日本語
 名前: ラクシャク・ヒンガウェ
 
@@ -30,15 +19,4 @@ Technologies I Use:
 
     使用技術: React, Spring Boot, AWS, MySQL
 
-使用技術:
-
-    Java
-
-    Spring Boot
-
-    React
-
-    MySQL
-
-    AWS
 
