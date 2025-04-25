@@ -8,7 +8,7 @@ Current Project: Building a Shinkansen Management System
 
     Tech Stack: React, Spring Boot, AWS, MySQL
 
-#　日本語
+# 日本語
 名前: ラクシャク・ヒンガウェ
 
 目標: プリンシパルソフトウェアエンジニアになること
