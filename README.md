@@ -1,36 +1,44 @@
-Hi, I’m Rakshak Hingawe
+Name: Rakshak Hingawe
 
-I’m working to become a Principal Software Engineer by solving tough problems and improving my skills with DSA and real-world projects.
+Goal: Become a Principal Software Engineer
 
-What I’m Building:
+Passion: Solving complex problems and improving through daily DSA practice
 
-    Shinkansen Management System using React, Spring Boot, AWS, MySQL (Still in development)
+Current Project: Building a Shinkansen Management System
 
-Tech I Use:
+    Tech Stack: React, Spring Boot, AWS, MySQL
 
-    Java, Spring Boot, React, MySQL, AWS
+Technologies I Use:
 
-Let’s Connect:
+    Java
 
-    LinkedIn
+    Spring Boot
 
-    Email: rakshakhiangawe@gmail.com
+    React
 
-こんにちは、ラクシャク・ヒンガウェです
+    MySQL
 
-プリンシパルソフトウェアエンジニアを目指して、データ構造とアルゴリズムやプロジェクトを通じてスキルを向上させています。
+    AWS
+#　日本語
+名前: ラクシャク・ヒンガウェ
 
-取り組んでいること:
+目標: プリンシパルソフトウェアエンジニアになること
 
-    新幹線管理システム（React, Spring Boot, AWS, MySQL）（開発中）
+情熱: 複雑な問題を解決し、日々**データ構造とアルゴリズム(DSA)**の練習でスキルを向上させること
+
+現在のプロジェクト: 新幹線管理システムの開発
+
+    使用技術: React, Spring Boot, AWS, MySQL
 
 使用技術:
 
-    Java, Spring Boot, React, MySQL, AWS
+    Java
 
-連絡先:
+    Spring Boot
 
-    LinkedIn
+    React
 
-    メール: rakshakhiangawe@gmail.com
+    MySQL
+
+    AWS
 
