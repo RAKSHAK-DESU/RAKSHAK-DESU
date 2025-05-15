@@ -1,4 +1,4 @@
-<h1 align="center">Rakshak Hingawe (RAKSHAK-DESU)</h1>
+<h1 align="center">Rakshak Hingawe </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-Java%20%7C%20SpringBoot-blue?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Expert-yellow?style=flat-square&logo=leetcode" />
@@ -11,7 +11,7 @@
 
 ### 🇬🇧 English
 
-Hello! I'm **Rakshak Hingawe**, also known online as **RAKSHAK-DESU**.
+Hello! I'm **Rakshak Hingawe**, 
 
 - 🚀 I'm a **Backend Developer** skilled in:
   - **Java**, **Spring Boot**
@@ -23,7 +23,7 @@ Hello! I'm **Rakshak Hingawe**, also known online as **RAKSHAK-DESU**.
 
 ### 🇯🇵 日本語
 
-こんにちは！**RAKSHAK-DESU（ラクシャク・ヒンガウェ）**と申します。
+こんにちは！**ラクシャク・ヒンガウェ**と申します。
 
 - 🚀 主に**バックエンド開発者**として活動しています。
   - 使用技術：**Java**, **Spring Boot**, **SQL**, **システム設計**, **データ構造とアルゴリズム**
