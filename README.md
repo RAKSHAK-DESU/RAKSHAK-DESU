@@ -58,7 +58,7 @@ Hello! I'm **Rakshak Hingawe**,
 ## 📫 Let's Connect
 
 - 📩 Email: rakshakhingawe.com  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/rakshak-hingawe)
+- 💼 LinkedIn: [RAKSHAK-HINGAWE](https://linkedin.com/in/rakshak-hingawe)
 
 ---
 
