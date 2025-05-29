@@ -18,7 +18,7 @@ Hello! I'm **Rakshak Hingawe**,
   - **SQL**, **System Design**, **Data Structures & Algorithms**
 - 💻 I also work with:
   - **JavaScript**, **React**, **HTML/CSS**
-- 🔧 I'm currently building a **Shinkansen Management System** as one of my major backend projects.
+- 🔧 I'm developed a **Shinkansen Management System** as one of my major backend projects.
 - 🌐 I've developed several websites and enjoy working on real-world web applications.
 
 ### 🇯🇵 日本語
@@ -29,7 +29,7 @@ Hello! I'm **Rakshak Hingawe**,
   - 使用技術：**Java**, **Spring Boot**, **SQL**, **システム設計**, **データ構造とアルゴリズム**
 - 💻 フロントエンドも少しやっています：
   - **JavaScript**, **React**, **HTML/CSS**
-- 🚄 現在は**新幹線管理システム**のプロジェクトを構築中です。
+- 🚄 **新幹線管理システム**のプロジェクトを開発しました。
 - 🌐 今までに様々なWebサイトを開発してきました。
 
 ---
@@ -50,7 +50,7 @@ Hello! I'm **Rakshak Hingawe**,
 
 ## 🚧 Projects
 
-- 🔧 **Shinkansen Management System** (In Progress)
+- 🔧 **Shinkansen Management System** (Completed)
 - 🌐 Multiple **Website Projects** using front-end + backend stacks
 
 ---
