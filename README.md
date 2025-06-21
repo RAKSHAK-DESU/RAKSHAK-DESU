@@ -1,6 +1,7 @@
 <h1 align="center">Rakshak Hingawe </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-Java%20%7C%20SpringBoot-blue?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Developer-PHP%20%7C%20Laravel-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Expert-yellow?style=flat-square&logo=leetcode" />
   <img src="https://img.shields.io/badge/System%20Design-Enthusiast-green?style=flat-square" />
 </p>
@@ -14,27 +15,29 @@
 Hello! I'm **Rakshak Hingawe**, 
 
 - 🚀 I'm a **Backend Developer** skilled in:
-  - **Java**, **Spring Boot**
+  - **Java**, **Spring Boot**, **PHP**, **Laravel**
   - **SQL**, **System Design**, **Data Structures & Algorithms**
 - 💻 I also work with:
   - **JavaScript**, **React**, **HTML/CSS**
 - 🔧 I've developed a **Shinkansen Management System** as one of my major backend projects.
+- 🛵 Currently developing a **Bike Rental System** using **PHP (Laravel)**, **MySQL**, and **React.js**.
 - 🌐 I've developed several websites and enjoy working on real-world web applications.
-- 🌱 Currently learning **PHP** and **Laravel** to expand my backend skillset.
-- 💡 I'm deeply passionate about software development. Since childhood, I've been fascinated by how websites and apps work, and I've always been curious to understand how they're made.
+- 🌱 Actively learning and improving my backend & full-stack skills.
+- 💡 Since childhood, I've been fascinated by how websites and apps are made — that's what sparked my passion for software development.
 
 ### 🇯🇵 日本語
 
 こんにちは！**ラクシャク・ヒンガウェ**と申します。
 
 - 🚀 主に**バックエンド開発者**として活動しています。
-  - 使用技術：**Java**, **Spring Boot**, **SQL**, **システム設計**, **データ構造とアルゴリズム**
+  - 使用技術：**Java**, **Spring Boot**, **PHP**, **Laravel**, **SQL**, **システム設計**, **データ構造とアルゴリズム**
 - 💻 フロントエンドも少しやっています：
   - **JavaScript**, **React**, **HTML/CSS**
 - 🚄 **新幹線管理システム**のプロジェクトを開発しました。
+- 🛵 現在は**バイクレンタルシステム**を開発中です（**PHP (Laravel)**、**MySQL**、**React.js**）。
 - 🌐 実際のWebアプリケーションを作るのが好きで、これまでに複数のWebサイトを開発してきました。
-- 🌱 現在は**PHP**と**Laravel**を学習中です。
-- 💡 子供の頃からソフトウェア開発に強い関心があり、Webサイトやアプリの仕組みに魅了され、それらがどのように作られているのかを知りたいと思っていました。
+- 🌱 フルスタック技術を日々学び続けています。
+- 💡 子供の頃からWebやアプリの仕組みに興味があり、それが私の**ソフトウェア開発への情熱の原点**です。
 
 ---
 
@@ -57,6 +60,7 @@ Hello! I'm **Rakshak Hingawe**,
 ## 🚧 Projects
 
 - 🔧 **Shinkansen Management System** (Completed)
+- 🛵 **Bike Rental System** – Ongoing project using **PHP (Laravel)**, **MySQL**, and **React.js**
 - 🌐 Multiple **Website Projects** using front-end + backend stacks
 
 ---
