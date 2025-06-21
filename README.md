@@ -20,6 +20,8 @@ Hello! I'm **Rakshak Hingawe**,
   - **JavaScript**, **React**, **HTML/CSS**
 - 🔧 I've developed a **Shinkansen Management System** as one of my major backend projects.
 - 🌐 I've developed several websites and enjoy working on real-world web applications.
+- 🌱 Currently learning **PHP** and **Laravel** to expand my backend skillset.
+- 💡 I'm deeply passionate about software development. Since childhood, I've been fascinated by how websites and apps work, and I've always been curious to understand how they're made.
 
 ### 🇯🇵 日本語
 
@@ -30,7 +32,9 @@ Hello! I'm **Rakshak Hingawe**,
 - 💻 フロントエンドも少しやっています：
   - **JavaScript**, **React**, **HTML/CSS**
 - 🚄 **新幹線管理システム**のプロジェクトを開発しました。
-- 🌐 今までに様々なWebサイトを開発してきました。
+- 🌐 実際のWebアプリケーションを作るのが好きで、これまでに複数のWebサイトを開発してきました。
+- 🌱 現在は**PHP**と**Laravel**を学習中です。
+- 💡 子供の頃からソフトウェア開発に強い関心があり、Webサイトやアプリの仕組みに魅了され、それらがどのように作られているのかを知りたいと思っていました。
 
 ---
 
@@ -39,6 +43,8 @@ Hello! I'm **Rakshak Hingawe**,
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -65,6 +71,3 @@ Hello! I'm **Rakshak Hingawe**,
 _Thanks for visiting!_
 
 ---
-
-
-
