@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Backend%20Developer-Java%20%7C%20SpringBoot%20%7C%20PHP%20%7C%20Laravel-blueviolet?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Expert-yellow?style=flat-square&logo=leetcode" />
   <img src="https://img.shields.io/badge/System%20Design-Enthusiast-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Japan%20Only-red?style=flat-square&logo=japan" />
+
 </p>
 
 ---
