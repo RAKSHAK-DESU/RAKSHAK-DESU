@@ -1,9 +1,9 @@
-<h1 align="center">Rakshak Hingawe </h1>
+<h1 align="center">Rakshak Hingawe</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Developer-Java%20%7C%20SpringBoot-blue?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend%20Developer-PHP%20%7C%20Laravel-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Developer-Java%20%7C%20SpringBoot%20%7C%20PHP%20%7C%20Laravel-blueviolet?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Expert-yellow?style=flat-square&logo=leetcode" />
-  <img src="https://img.shields.io/badge/System%20Design-Enthusiast-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/System%20Design-Enthusiast-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Japan%20Only-red?style=flat-square&logo=japan" />
 </p>
 
 ---
@@ -38,6 +38,7 @@ Hello! I'm **Rakshak Hingawe**,
 - 🌐 実際のWebアプリケーションを作るのが好きで、これまでに複数のWebサイトを開発してきました。
 - 🌱 フルスタック技術を日々学び続けています。
 - 💡 子供の頃からWebやアプリの仕組みに興味があり、それが私の**ソフトウェア開発への情熱の原点**です。
+- 🔍 **現在、日本国内での就職先を積極的に探しています。**
 
 ---
 
@@ -67,7 +68,7 @@ Hello! I'm **Rakshak Hingawe**,
 
 ## 📫 Let's Connect
 
-- 📩 Email: rakshakhingawe@gmail.com  
+- 📩 Email: rakshakhingawe.com  
 - 💼 LinkedIn: [RAKSHAK-HINGAWE](https://linkedin.com/in/rakshak-hingawe)
 
 ---
