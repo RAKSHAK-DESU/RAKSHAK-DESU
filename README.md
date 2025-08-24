@@ -29,7 +29,6 @@ Hello! I'm **Rakshak Hingawe**,
 
 - 主に**バックエンド開発者**として活動しています。
   - 使用技術：**Java**, **Spring Boot**, **PHP**, **Laravel**, **SQL**, **システム設計**, **データ構造とアルゴリズム**
--  フロントエンドも少しやっています：
   - **JavaScript**, **React**, **HTML/CSS**
 -  現在は**バイクレンタルシステム**を開発中です（**PHP (Laravel)**、**MySQL**、**React.js**）。
 
