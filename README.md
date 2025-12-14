@@ -9,11 +9,11 @@
 ## Projects / プロジェクト
 
 **Dragon Ball Game**  
-Interactive browser game focused on game logic, animations, and user interaction.  
+Interactive browser-based game 
 https://rakshak-dragon-ball-z.netlify.app/
 
 **Portfolio Website**  
-3D-inspired personal site presenting projects and technical capabilities.  
+3D-style personal portfolio 
 https://rakshak3dportfolio.netlify.app/
 
 ---
